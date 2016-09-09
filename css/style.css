@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}/*清除默认的边界和填充*/
+
+.title{
+    width:500px;
+    height:70px;
+    margin:0 auto;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color:red;
+}
+
+.btns{
+    width:222px;
+    height:50px;
+    margin: 0 auto;
+}
+
+.btns span{
+    display: block;
+    float: left;
+    width:90px;
+    height:40px;
+    line-height: 30px;
+    background: blue;
+    border:1px solid blueviolet;
+    border-radius: 7px;
+    margin-right: 10px;
+    color:#FFF;
+    text-align:center;
+    font-size:14px;
+    font-family:"微软雅黑";
+    cursor:pointer;}
+
+
+
